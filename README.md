@@ -15,7 +15,7 @@ Algumas linguagens funcionais são:
 - JavaScript (multiparadigma)
 - PHP (multiparadigma)
 - Elixir
--
+- Haskell
 
 É uma linguagem de fácil manutenção, fácil para fazer testes, e também, deixa o código mais confiável.
 
